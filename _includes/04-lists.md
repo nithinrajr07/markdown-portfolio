@@ -1,4 +1,4 @@
-1. Cricket:cricket_game:
+1. Cricket 🏏
    1. County 
-2. Football:soccer:
-3. Basketball:basketball:
+2. Football⚽
+3. Basketball🏀
