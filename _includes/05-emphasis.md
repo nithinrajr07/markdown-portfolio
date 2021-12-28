@@ -1,2 +1,3 @@
-*Yea I'm italicized*
-**Yes!!! I'm bold**
+:fire: *This is awesome* :fire:
+
+**I gained markdown knowledge** :sparkles::sparkles:
