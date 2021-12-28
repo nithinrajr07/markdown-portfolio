@@ -1,3 +1,3 @@
-:fire: *This is awesome* :fire:
+ *This is awesome* 
 
-**I gained markdown knowledge** :sparkles::sparkles:
+**I gained markdown knowledge** 
